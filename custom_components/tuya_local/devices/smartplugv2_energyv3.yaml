@@ -13,6 +13,7 @@ products:
   - id: azpywu5zfg5wyzpn
     manufacturer: EARU
     model: 1P Breaker
+  - id: yyoa0tjmbqi4gj8t
 entities:
   - entity: switch
     class: outlet
